@@ -1,3 +1,3 @@
 # PerfectWeek API documentation
 
-PerfectWeek web API documentation
+Swagger tools for writing openapi documentation 
